@@ -13,7 +13,6 @@ jobs :
   - name: list file
     run: |
         ls
-        ping 8.8.8.8
 
   - name: Executing Shell Script
     run: |
