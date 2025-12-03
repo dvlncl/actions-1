@@ -16,4 +16,6 @@ jobs :
         ping 8.8.8.8
 
   - name: Executing Shell Script
-    run: ./ascii=scrip.sh
+    run: |
+        chmod +x
+        ./ascii-scrip.sh
