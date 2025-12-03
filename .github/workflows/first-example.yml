@@ -12,7 +12,7 @@ jobs:
         - name: Welcome message
           run: |
             echo "My First Github Actions Job"
-            ls =ltra
+            ls -ltra
             cat README.md
         
        
