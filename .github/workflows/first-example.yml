@@ -10,7 +10,7 @@ jobs:
           uses: actions/checkout@v6
               
         - name: Welcome message
-          run: Echo "My First Github Actions Job"
+          run: echo "My First Github Actions Job"
         
            
         - name: List files
